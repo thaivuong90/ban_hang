@@ -1,2 +1,0 @@
-<input type="submit" id="search" name="search" value="Tìm kiếm" onclick="return doSubmit('<?php echo $backUrl.'/'.MODE_SEARCH; ?>');" />
-<input type="button" id="clear" name="clear" value="Xóa trắng" onclick="return doClear();" />
